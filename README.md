@@ -6,21 +6,21 @@ This project is an end-to-end data solution built entirely in Power BI. It takes
 ## Problem Statement
 *   **Situation:** Food prices change very quickly in Nigeria, making up a massive part of daily household spending.
 *   **Complication:** Inflation data is usually stuck in long, confusing spreadsheet files. Because the data starts out messy and unorganized, it is hard for businesses to know where prices are rising fastest and when to buy stock.
-*   **Core Question:** How can we use a single tool to clean raw inflation numbers, build a working data model, and create a clear visual tool that shows exact price trends by state and food type?
+*   **Question:** How can we use a single tool to clean raw inflation numbers, build a working data model, and create a clear visual tool that shows exact price trends by state and food type?
 
 ##  Tools & Skills Used
 This project was built 100% end-to-end using Microsoft Power BI, demonstrating full competency in data transformation, modeling, analytical calculations, and visual design within a single tool.
 
-*   **Power Query (ETL - Extract, Transform, Load):** 
+*   **Power Query (ETL - Extract, Transform, Load)** 
     *   Cleaned raw, unformatted data by removing duplicates and handling missing values.
     *   Transformed text columns and standardized currency formats for the Nigerian Naira (₦).
     *   Grouped individual states into their proper geopolitical regions using custom conditional columns.
-*   **Data Modeling:** 
+*   **Data Modeling** 
     *   Designed a star-schema relationship model to connect the primary inflation metrics with time and location tables, ensuring fast dashboard performance.
-*   **DAX (Data Analysis Expressions):** 
+*   **DAX (Data Analysis Expressions)** 
     *   Wrote custom analytical calculations to generate summary metrics like Average Food Price, Average Food Inflation, and Average Headline Inflation.
-*   **Data Visualization:** 
-    *   Built an interactive canvas utilizing key performance indicators (KPIs), bar charts, line graphs, and ribbon charts.
+*   **Data Visualization** 
+    *   Built an interactive key performance indicators (KPIs), bar charts, line graphs, and ribbon charts.
 
 ## How the Dashboard Was Built
 1.  **Data Clean-up (Power Query):** Imported the raw data, removed duplicates, fixed missing numbers, and sorted the states into their proper geopolitical regions.
