@@ -39,3 +39,8 @@ This project was built 100% end-to-end using Microsoft Power BI, demonstrating f
 1.  **Focus on Protein Supply Chains:** Because meat and seafood drive the highest costs, businesses should focus on finding cheaper transport routes for these specific categories.
 2.  **Sourcing Goods Wisely:** Retailers should look into sourcing more agricultural products from northern regions where baseline prices are lower, then shipping them to higher-cost southern markets.
 3.  **Prepare for Seasonal Spikes:** Food buyers should stock up on inventory before the predictable mid-year price surge hits in June and July.
+
+
+https://github.com/user-attachments/assets/4c60ab86-3aa0-4f1e-91b0-38affa14db8d
+
+
