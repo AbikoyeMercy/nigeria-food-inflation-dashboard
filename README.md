@@ -26,6 +26,8 @@ This project was built 100% end-to-end using Microsoft Power BI, demonstrating f
 1.  **Data Clean-up (Power Query):** Imported the raw data, removed duplicates, fixed missing numbers, and sorted the states into their proper geopolitical regions.
 2.  **Calculations (DAX):** Created custom formulas to calculate the summary cards at the top, such as the Average Food Price of ₦3K and the Headline Inflation of 17.74%.
 3.  **Dashboard Design:** Placed easy-to-read "KPI cards" across the top for quick facts and added interactive drop-down filters (Month, Year, Food Category, State) so users can click to filter the charts instantly.
+<img width="1520" height="736" alt="Screenshot 2026-09-24 152842" src="https://github.com/user-attachments/assets/47d06fff-bd7a-49d4-8462-cfac45a4c54d" />
+
 
 ##  Key Findings
 *   **Meat and Seafood Cost the Most:** Meat, Fish/Seafood, and Poultry are significantly more expensive than other food groups, with average prices sitting between ₦5K and ₦7K.
