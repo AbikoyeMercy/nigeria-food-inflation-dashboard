@@ -19,7 +19,7 @@ This project was built 100% end-to-end using Microsoft Power BI, demonstrating f
     *   Designed a star-schema relationship model to connect the primary inflation metrics with time and location tables, ensuring fast dashboard performance.
 *   **DAX (Data Analysis Expressions):** 
     *   Wrote custom analytical calculations to generate summary metrics like Average Food Price, Average Food Inflation, and Average Headline Inflation.
-*   **Data Visualization & UI Design:** 
+*   **Data Visualization:** 
     *   Built an interactive canvas utilizing key performance indicators (KPIs), bar charts, line graphs, and ribbon charts.
 
 ## How the Dashboard Was Built
